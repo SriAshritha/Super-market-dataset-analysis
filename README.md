@@ -37,6 +37,9 @@ Earned excellent feedback for analytical depth, clarity, and the effectiveness o
 - **Google Colab**
 - **Python (Pandas, NumPy, Matplotlib, Seaborn)**
 
+## Link to google colab file
+[Colab_link](https://colab.research.google.com/drive/11NMrwnh2cz90LdjIMy4x2uTeUhPDDfWB#scrollTo=R-mCoRNwxYEa)
+
 ## 🚀 How to Run
 1. **Clone the Repository**
    ```bash
